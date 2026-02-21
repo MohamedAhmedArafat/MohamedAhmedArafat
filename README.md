@@ -21,7 +21,6 @@
 
 - Git & GitHub: Version control for all my projects
 - VS Code: Primary code editor
-- Linux: Ubuntu for development environment
 
 ### Currently Exploring
 <p align="left">
