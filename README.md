@@ -16,7 +16,7 @@
 
 ### Tools I Use Daily
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 - Git & GitHub: Version control for all my projects
