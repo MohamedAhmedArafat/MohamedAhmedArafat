@@ -70,13 +70,13 @@
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamedalsayed" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-ahmed-arafat-18618227b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.mohamedalsayed.me/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
-  <a href="mailto:sayedlashine1@gmail.com" target="_blank">
+  <a href="rfatm652@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
