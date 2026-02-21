@@ -73,10 +73,7 @@
   <a href="https://www.linkedin.com/in/mohamed-ahmed-arafat-18618227b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.mohamedalsayed.me/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-  <a href="rfatm652@gmail.com" target="_blank">
+  <a href="mailto:rfatm652@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -86,9 +83,3 @@
 ## ✨ My Coding Philosophy
 > "Hard work and attitude build the foundation, consistent learning builds the skyscraper."  
 ---
-
-<div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=MohamedAlsayed334&color=blueviolet&style=flat)
-    
-</div>
